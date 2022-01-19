@@ -1,16 +1,30 @@
-### Hi there 👋
+# Who am I? 🤔
 
-<!--
-**lucastribioli/lucastribioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Developer
+- ⛪ Sunday School Teacher
+- 👦 Leader of Teenagers in the Church
+- 🥋 Orange Belt Taekwondo and Hapkido
+- 👨‍🎓 Student of AI and Data Science
 
-Here are some ideas to get you started:
+# Some Skills 🤹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Delphi
+- Python
+- PHP
+- Java
+- HTML/CSS
+- Javascript
+- Dart/Flutter
+- Git/GitHub
+- CodeIgniter
+- Django
+- React
+- Bootstrap
+- JQuery...
+
+# Where to see me or find me? 👀
+
+- [Linkedin](https://www.linkedin.com/in/lucas-tribioli-578765102/)
+- [Instagram](https://www.instagram.com/lucastribioli/)
+- [Video](https://www.youtube.com/watch?v=oUe6MCjGMbw&t=1164s)
+- [Podcast](https://www.scuba.dev.br/2021/11/26/o-acougueiro-que-se-tornou-dev-lucas-tribioli/)
