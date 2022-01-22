@@ -18,7 +18,7 @@
 - Git/GitHub
 - CodeIgniter
 - Django
-- React
+- SQL
 - Bootstrap
 - JQuery...
 
