@@ -1,7 +1,7 @@
 # Who am I? 🤔
 
-- 💻 Developer
-- ⛪ Sunday School Teacher
+- 💻 Computer scientist/Developer
+- ⛪ Sunday School Teacher in the Church
 - 👦 Leader of Teenagers in the Church
 - 🥋 Orange Belt Taekwondo and Hapkido
 - 👨‍🎓 Student of AI and Data Science
