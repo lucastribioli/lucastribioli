@@ -20,6 +20,7 @@
 - Django
 - SQL
 - Bootstrap
+- R
 - JQuery...
 
 # Where to see me or find me? 👀
