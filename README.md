@@ -15,12 +15,14 @@
 - HTML/CSS
 - Javascript
 - Dart/Flutter
-- Git/GitHub
 - CodeIgniter
 - Django
 - SQL
 - Bootstrap
 - R
+- Docker
+- AWS
+- Celery
 - JQuery...
 
 # Where to see me or find me? 👀
