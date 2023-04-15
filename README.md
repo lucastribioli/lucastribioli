@@ -4,7 +4,7 @@
 - ⛪ Sunday School Teacher in the Church
 - 👦 Leader of Teenagers in the Church
 - 🥋 Orange Belt Taekwondo and Hapkido
-- 👨‍🎓 Student of AI and Data Science
+- 👨‍🎓 Enthusiast in AI, Data Science, DevOps, Security, Architecture and Software Engineering 
 
 # Some Skills 🤹
 
