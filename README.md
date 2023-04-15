@@ -16,6 +16,7 @@
 - Javascript
 - Dart/Flutter
 - CodeIgniter
+- Laravel
 - Django
 - SQL
 - Bootstrap
