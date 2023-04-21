@@ -24,6 +24,7 @@
 - Docker
 - AWS
 - Celery
+- Kotlin
 - JQuery...
 
 # Where to see me or find me? 👀
