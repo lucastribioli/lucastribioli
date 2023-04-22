@@ -27,7 +27,7 @@
 - Kotlin
 - JQuery...
 
-# speech_balloon Languages (Natural Languages)
+# :speech_balloon Languages (Natural Languages)
 - :brazil: - Brazilian Portuguese (Native)
 - :us: - English (Intermediary)
 
