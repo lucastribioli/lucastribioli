@@ -35,7 +35,15 @@
 <a href="https://www.linkedin.com/in/lucas-tribioli-578765102/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-- [Linkedin](https://www.linkedin.com/in/lucas-tribioli-578765102/)
-- [Instagram](https://www.instagram.com/lucastribioli/)
-- [Video](https://www.youtube.com/watch?v=oUe6MCjGMbw&t=1164s)
-- [Podcast](https://www.scuba.dev.br/2021/11/26/o-acougueiro-que-se-tornou-dev-lucas-tribioli/)
+  
+<a href="https://www.instagram.com/lucastribioli/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  
+  <a href="https://www.youtube.com/watch?v=oUe6MCjGMbw&t=1164s">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  </a>
+  
+  <a href="https://open.spotify.com/episode/5mUNzSRpfPegdilMVxpKHZ">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
