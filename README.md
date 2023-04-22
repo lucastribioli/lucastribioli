@@ -27,12 +27,14 @@
 - Kotlin
 - JQuery...
 
-# :speech_balloon Languages (Natural Languages)
+# 🗣️ Languages (Natural Languages)
 - :brazil: - Brazilian Portuguese (Native)
 - :us: - English (Intermediary)
 
 # 👀 Where to see me or find me? 
-
+<a href="https://www.linkedin.com/in/lucas-tribioli-578765102/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 - [Linkedin](https://www.linkedin.com/in/lucas-tribioli-578765102/)
 - [Instagram](https://www.instagram.com/lucastribioli/)
 - [Video](https://www.youtube.com/watch?v=oUe6MCjGMbw&t=1164s)
