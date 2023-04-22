@@ -1,4 +1,4 @@
-# Who am I? 🤔
+# 🤔 Who am I? 
 
 - 💻 Computer scientist/Developer
 - ⛪ Sunday School Teacher in the Church
@@ -6,7 +6,7 @@
 - 🥋 Orange Belt Taekwondo and Hapkido
 - 👨‍🎓 Enthusiast in AI, Data Science, DevOps, Security, Architecture and Software Engineering 
 
-# Some Skills 🤹
+# 🤹 Some technologies I know 
 
 - Delphi
 - Python
@@ -27,7 +27,11 @@
 - Kotlin
 - JQuery...
 
-# Where to see me or find me? 👀
+# speech_balloon Languages (Natural Languages)
+- :brazil: - Brazilian Portuguese (Native)
+- :us: - English (Intermediary)
+
+# 👀 Where to see me or find me? 
 
 - [Linkedin](https://www.linkedin.com/in/lucas-tribioli-578765102/)
 - [Instagram](https://www.instagram.com/lucastribioli/)
